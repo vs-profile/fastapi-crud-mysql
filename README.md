@@ -4,7 +4,7 @@ A REST API built using FastAPI, SQLModel, SQLAlchemy, and MySQL.
 
 ## Features
 
-- Create Customer
+-Create user
 - Get All Customers
 - Get Customer by ID
 - Update Customer
